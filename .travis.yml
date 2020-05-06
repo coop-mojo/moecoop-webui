@@ -14,10 +14,6 @@ script:
   - yarn run test
   - yarn run build
 
-#after_success:
-#  - cd build
-#  - '[ "$TRAVIS_BRANCH" == "master" ] && [ $GH_TOKEN ] && ./deploy.sh'
-
 deploy:
   provider: pages
   skip_cleanup: true
