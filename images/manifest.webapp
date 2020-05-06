@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "moecoop-webui",
+  "description": "生協の知恵袋のウェブUI版です",
+  "icons": {
+    "60": "/images/firefox_app_60x60.png",
+    "128": "/images/firefox_app_128x128.png",
+    "512": "/images/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "もじょんぬ",
+    "url": null
+  }
+}
