@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 import createPersistedState from 'vuex-persistedstate'
 
 import { baseURL, getCall, postCall } from './rest'
-import calcSkillFromURL from './skill'
+import { calcSkillFromURL } from './skill'
 
 Vue.use(Vuex)
 
